@@ -1,37 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jay Jung - Portfolio]]></title><description><![CDATA[1B Computer Engineering student at University of Waterloo]]></description><link>https://github.com/wangonya/flexible-gatsby</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Dec 2020 04:32:48 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jay Jung - Portfolio]]></title><description><![CDATA[1B Computer Engineering student at University of Waterloo]]></description><link>https://github.com/wangonya/flexible-gatsby</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Dec 2020 06:33:06 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
 My interest in Computers made me want to…]]></description><link>https://github.com/wangonya/flexible-gatsby/about-me/</link><guid isPermaLink="false">https://github.com/wangonya/flexible-gatsby/about-me/</guid><pubDate>Mon, 28 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;p&gt;Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
 My interest in Computers made me want to learn about it more which is why I chose Computer Engineering.
 Also, to list some of my hobbies, I like to play video games, and enjoy watching movies.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 703px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/jeyoungjung.github.io/static/df49467b1abf5ebcf98a522d5713d004/242e2/profile.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Jay&quot;
-        title=&quot;Jay&quot;
-        src=&quot;/jeyoungjung.github.io/static/df49467b1abf5ebcf98a522d5713d004/242e2/profile.png&quot;
-        srcset=&quot;/jeyoungjung.github.io/static/df49467b1abf5ebcf98a522d5713d004/8aea6/profile.png 243w,
-/jeyoungjung.github.io/static/df49467b1abf5ebcf98a522d5713d004/44c61/profile.png 485w,
-/jeyoungjung.github.io/static/df49467b1abf5ebcf98a522d5713d004/242e2/profile.png 703w&quot;
-        sizes=&quot;(max-width: 703px) 100vw, 703px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
 &lt;!--
 There&apos;s support for code snippets:
 
