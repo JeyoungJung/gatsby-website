@@ -9,10 +9,6 @@ Hi! My name is Jay, and I am currently a 1B Computer Engineering student at Univ
 My interest in Computers made me want to learn about it more which is why I chose Computer Engineering.
 Also, to list some of my hobbies, I like to play video games, and enjoy watching movies.
 
-![Jay](./profile.png)
-
-
-
 <!--
 There's support for code snippets:
 
