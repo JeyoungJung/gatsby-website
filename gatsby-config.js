@@ -8,11 +8,10 @@ module.exports = {
       twitter: ``,
       facebook: ``,
       github: `jeyoungjung`,
-      linkedin: `jay-jung-95aa47202`,
+      linkedin: `jeyoung-jung`,
       email: `j74jung@uwaterloo.ca`,
     },
   },
-  pathPrefix: "/jeyoungjung.github.io",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

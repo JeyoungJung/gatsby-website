@@ -4,10 +4,11 @@ date: 2020-12-28
 description: Go ahead and edit this file and re-build the site to see your changes. # Add post description (optional)
 img: ./profile.png # Add image post (optional)
 ---
----
 Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
 My interest in Computers made me want to learn about it more which is why I chose Computer Engineering.
 Also, to list some of my hobbies, I like to play video games, and enjoy watching movies.
+
+![profile](profile.png)
 
 <!--
 There's support for code snippets:
