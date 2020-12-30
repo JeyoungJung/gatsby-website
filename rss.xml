@@ -1,8 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jay Jung - Portfolio]]></title><description><![CDATA[1B Computer Engineering student at University of Waterloo]]></description><link>https://github.com/wangonya/flexible-gatsby</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 29 Dec 2020 06:33:06 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
-My interest in Computers made me want to…]]></description><link>https://github.com/wangonya/flexible-gatsby/about-me/</link><guid isPermaLink="false">https://github.com/wangonya/flexible-gatsby/about-me/</guid><pubDate>Mon, 28 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;p&gt;Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jay Jung - Portfolio]]></title><description><![CDATA[1B Computer Engineering student at University of Waterloo]]></description><link>https://github.com/wangonya/flexible-gatsby</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 30 Dec 2020 04:20:24 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
+My interest in Computers made me want to…]]></description><link>https://github.com/wangonya/flexible-gatsby/about-me/</link><guid isPermaLink="false">https://github.com/wangonya/flexible-gatsby/about-me/</guid><pubDate>Mon, 28 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
 My interest in Computers made me want to learn about it more which is why I chose Computer Engineering.
 Also, to list some of my hobbies, I like to play video games, and enjoy watching movies.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 384px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eeea405e9b31924f906e61390c2897ea/804b2/profile.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;profile&quot;
+        title=&quot;profile&quot;
+        src=&quot;/static/eeea405e9b31924f906e61390c2897ea/804b2/profile.png&quot;
+        srcset=&quot;/static/eeea405e9b31924f906e61390c2897ea/8aea6/profile.png 243w,
+/static/eeea405e9b31924f906e61390c2897ea/804b2/profile.png 384w&quot;
+        sizes=&quot;(max-width: 384px) 100vw, 384px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;!--
 There&apos;s support for code snippets:
 
@@ -21,6 +48,6 @@ Check out the [Gatsby docs][gatsby-docs] for more info on how to get the most ou
 [katex-plugin]: https://www.gatsbyjs.org/packages/gatsby-remark-katex/
 
 
-</content:encoded></item><item><title><![CDATA[Contact]]></title><description><![CDATA[Feel free to contact me through my email or my LinkedIn]]></description><link>https://github.com/wangonya/flexible-gatsby/contact/</link><guid isPermaLink="false">https://github.com/wangonya/flexible-gatsby/contact/</guid><pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Feel free to contact me through my &lt;a href=&quot;mailto:j74jung@uwaterloo.ca&quot;&gt;email&lt;/a&gt; or my &lt;a href=&quot;https://www.linkedin.com/in/jay-jung-95aa47202/&quot;&gt;LinkedIn&lt;/a&gt; &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Projects]]></title><description><![CDATA[Multiplayer Game using Node.js and Javascript Tower Defense Game using Processing Physics Simulation using Processing]]></description><link>https://github.com/wangonya/flexible-gatsby/projects/</link><guid isPermaLink="false">https://github.com/wangonya/flexible-gatsby/projects/</guid><pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Multiplayer Game using Node.js and Javascript&lt;br&gt;
+</content:encoded></item><item><title><![CDATA[Contact]]></title><description><![CDATA[Feel free to contact me through my email or my LinkedIn.]]></description><link>https://github.com/wangonya/flexible-gatsby/contact/</link><guid isPermaLink="false">https://github.com/wangonya/flexible-gatsby/contact/</guid><pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Feel free to contact me through my &lt;a href=&quot;mailto:j74jung@uwaterloo.ca&quot;&gt;email&lt;/a&gt; or my &lt;a href=&quot;https://www.linkedin.com/in/jay-jung-95aa47202/&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Projects]]></title><description><![CDATA[Multiplayer Game using Node.js and Javascript Tower Defense Game using Processing Physics Simulation using Processing]]></description><link>https://github.com/wangonya/flexible-gatsby/projects/</link><guid isPermaLink="false">https://github.com/wangonya/flexible-gatsby/projects/</guid><pubDate>Sat, 26 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Multiplayer Game using Node.js and Javascript&lt;br&gt;
 Tower Defense Game using Processing&lt;br&gt;
 Physics Simulation using Processing&lt;/p&gt;</content:encoded></item></channel></rss>
