@@ -2,7 +2,7 @@
 title: Contact
 date: 2020-12-27
 description: # Add post description (optional)
-img: # Add image post (optional)
+img: contact.jpg # Add image post (optional)
 tags: # add tag
 ---
 

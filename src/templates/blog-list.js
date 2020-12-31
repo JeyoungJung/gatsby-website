@@ -21,7 +21,7 @@ class BlogIndex extends React.Component {
           title={siteTitle}
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <div className="content-box clearfix">
+        <div className="content-box clearfix" >
           {posts.map(({ node }) => {
             return (
               <article className="post" key={node.fields.slug}>
@@ -63,11 +63,6 @@ class BlogIndex extends React.Component {
                   </Link>
                 </p>
               )}
-              <p>
-                <span className="page-number">
-                  Page {currentPage} of {numPages}
-                </span>
-              </p>
               {!isLast && (
                 <p>
                   <Link to={nextPage} rel="next" className="older-posts">

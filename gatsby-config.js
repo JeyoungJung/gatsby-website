@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Jay Jung - Portfolio`,
-    description: `1B Computer Engineering student at University of Waterloo`,
+    description: `1B Computer Engineering Student at University of Waterloo`,
     author: `Jay Jung`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {

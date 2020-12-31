@@ -1,12 +1,12 @@
 ---
 title: 'About'
-date: 2020-12-28 
+date: 2020-12-28
 description: Go ahead and edit this file and re-build the site to see your changes. # Add post description (optional)
-img: ./profile.png # Add image post (optional)
+img: about.png # Add image post (optional)
 ---
-Hi! My name is Jay, and I am currently a 1B Computer Engineering student at University of Waterloo.
-My interest in Computers made me want to learn about it more which is why I chose Computer Engineering.
-Also, to list some of my hobbies, I like to play video games, and enjoy watching movies.
+
+Hi! My name is Jay, I am currently enrolled in Computer Engineering at the University of Waterloo.
+Initially, I have always had a great intereset in computers. This outlet of curioustity fueled my motivation to persue a path of further knowledge in the field of Computer Engineering. Over many years of schooling thus far, I have found myself to be dedicated, eager, innovative, and goal-oriented. Finally, some of my hobbies include playing/coding video games, watching movies and composing music.
 
 ![profile](profile.png)
 
@@ -26,5 +26,3 @@ Check out the [Gatsby docs][gatsby-docs] for more info on how to get the most ou
 
 [gatsby-docs]: https://www.gatsbyjs.org/docs/
 [katex-plugin]: https://www.gatsbyjs.org/packages/gatsby-remark-katex/
-
-
