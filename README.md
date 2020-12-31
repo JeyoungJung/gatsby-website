@@ -3,7 +3,7 @@
 <h1 align="center">
   Portfolio Website
 </h1>
-A portfolio website using gatsby.
+**A portfolio website using gatsby.**
 
 ## Quick Start 🚀
 
